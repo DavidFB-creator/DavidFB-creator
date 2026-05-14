@@ -33,6 +33,23 @@ Right now, I'm focused on learning **C** properly, understanding how programs wo
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-805AD5?style=flat&logo=databricks&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-DD6B20?style=flat&logo=leetcode&logoColor=white)
 
+## Operating Systems I've Used
+
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
+![CachyOS](https://img.shields.io/badge/CachyOS-00AEEF?style=flat&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat&logo=linuxmint&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=flat&logo=windows11&logoColor=white)
+![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=flat&logo=windows10&logoColor=white)
+![Windows 7](https://img.shields.io/badge/Windows%207-0078D6?style=flat&logo=windows&logoColor=white)
+![Windows XP](https://img.shields.io/badge/Windows%20XP-003399?style=flat&logo=windowsxp&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+![FreeDOS](https://img.shields.io/badge/FreeDOS-000000?style=flat&logo=freedos&logoColor=white)
+
 ## What I'm Working On
 
 - Practice exercises and projects in **C**.
