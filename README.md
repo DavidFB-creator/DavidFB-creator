@@ -46,10 +46,10 @@ Right now, I'm focused on learning **C** properly, understanding how programs wo
 
 **Windows:**
 
-![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=flat&logo=windows&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=flat&logo=windows&logoColor=white)
-![Windows 7](https://img.shields.io/badge/Windows%207-0078D6?style=flat&logo=windows&logoColor=white)
-![Windows XP](https://img.shields.io/badge/Windows%20XP-003399?style=flat&logo=windows&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=flat&logo=microsoft&logoColor=white)
+![Windows 7](https://img.shields.io/badge/Windows%207-0078D6?style=flat&logo=microsoft&logoColor=white)
+![Windows XP](https://img.shields.io/badge/Windows%20XP-003399?style=flat&logo=microsoft&logoColor=white)
 
 **Mobile:**
 
