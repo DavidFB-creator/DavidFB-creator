@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with LinkedIn
 - 💬 Ask me about LinkedIn
 - 📫 How to reach me: LinkedIn
-- 😄 Pronouns: Linked/In
+- 😄 Pronouns: LinkedIn
 - ⚡ Fun fact: LinkedIn
 
