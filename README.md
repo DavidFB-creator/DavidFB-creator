@@ -49,13 +49,6 @@ Right now, I'm focused on learning **C** properly, understanding how programs wo
 - Start working with Linux, Makefiles, and development tools.
 - Build a strong base for future courses and more ambitious projects.
 
-## GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DavidFB-creator&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidFB-creator&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
 ## Learning Mindset
 
 ```c
