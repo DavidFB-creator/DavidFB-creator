@@ -2,7 +2,6 @@
 
 I'm a **second-year Computer Engineering student** interested in how software works under the hood. I'm building my skills in **C** and computer systems, and I've also worked with **ARM Assembly**, **Python**, and the basics of **Node.js, JavaScript, and TypeScript**.
 
-Outside of coding, I'm on a side quest to become **GitHub's most legendary LARPer** ⚔️
 
 ## Tech Stack
 
