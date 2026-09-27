@@ -1,16 +1,16 @@
 # Hi there 👋, I'm David
 
-I'm a **second-year Computer Engineering student** interested in how software works under the hood. I'm building my skills in **C** and computer systems, and I've also worked with **ARM Assembly**, **Python**, and the basics of **Node.js, JavaScript, and TypeScript**.
+I'm a **second-year Computer Engineering student** interested in how software works under the hood. I'm building my skills in **C**, **Java**, and computer systems, and I've also worked with **ARM Assembly** and **Python**, along with the basics of **Node.js, JavaScript, and TypeScript**.
 
 
 ## Tech Stack
 
 ### Languages
 
-C · Python · ARM Assembly · JavaScript · TypeScript
+C · Java · Python · ARM Assembly · JavaScript · TypeScript
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,js,ts&theme=dark" alt="C, Python, JavaScript, and TypeScript">
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,ts&theme=dark" alt="C, Java, Python, JavaScript, and TypeScript">
 </p>
 
 ### Tools & Systems
