@@ -1,24 +1,33 @@
-# Hi, I'm David
+# Hi, I'm David 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=DavidFB-creator&label=Profile%20views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/DavidFB-creator?label=Followers&style=flat&logo=github)](https://github.com/DavidFB-creator)
-[![GitHub stars](https://img.shields.io/github/stars/DavidFB-creator?label=Stars&style=flat&logo=github)](https://github.com/DavidFB-creator?tab=repositories)
+<p align="center">
+  <strong>Second-year Computer Engineering student</strong><br>
+  Learning how software works under the hood — one quest at a time.<br>
+  <em>Main quest: become GitHub's most legendary LARPer 🛡️</em>
+</p>
 
-I'm a first-year **Computer Engineering** student building a strong foundation in programming, logical thinking, and computer science fundamentals.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DavidFB-creator&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+  <a href="https://github.com/DavidFB-creator"><img src="https://img.shields.io/github/followers/DavidFB-creator?label=Followers&style=flat&logo=github" alt="GitHub followers"></a>
+  <a href="https://github.com/DavidFB-creator?tab=repositories"><img src="https://img.shields.io/github/stars/DavidFB-creator?label=Stars&style=flat&logo=github" alt="GitHub stars"></a>
+</p>
 
-Right now, I'm focused on learning **C** properly, understanding how programs work under the hood, and turning every practice exercise into something I can explain, improve, and share. I have also worked with **ARM Assembly** for a first-semester project.
+## 🧭 Character sheet
 
-## About Me
+- **Current level:** Year 2
+- **Class:** Computer Engineering student
+- **Main language:** C
+- **Other tools in my kit:** Python, ARM Assembly, and some Node.js, JavaScript, and TypeScript
+- **Interests:** algorithms, data structures, computer systems, and software development
 
-- **Computer Engineering** student.
-- Learning programming from the fundamentals.
-- Main language right now: **C**.
-- I can also work with **Python**, and I have basic knowledge of **Node.js**, **JavaScript**, and **TypeScript**.
-- Some experience with **ARM Assembly** through a first-semester project.
-- Interested in algorithms, data structures, systems, and software development.
-- Goal: build small but well-made projects with clean code and clear documentation.
+## ⚔️ Current quests
 
-## Technologies
+- Keep improving in C and strengthen my understanding of programming fundamentals.
+- Explore algorithms, data structures, Linux, and development tools.
+- Turn what I learn into small, well-documented projects.
+- Keep leveling up my Git and GitHub workflow.
+
+## 🧰 Technologies
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white)
@@ -30,70 +39,26 @@ Right now, I'm focused on learning **C** properly, understanding how programs wo
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-## Currently Learning
+## 📚 Learning now
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Algorithms](https://img.shields.io/badge/Algorithms-2F855A?style=flat&logo=thealgorithms&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-805AD5?style=flat&logo=databricks&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-DD6B20?style=flat&logo=leetcode&logoColor=white)
 
-## Operating Systems I've Used
+## 💻 Operating systems I've used
 
-**Linux:**
+**Linux:** Arch Linux · CachyOS · Ubuntu · Debian · Kali Linux · Linux Mint  
+**Windows:** Windows 11 · Windows 10 · Windows 7 · Windows XP  
+**Mobile:** Android · iOS  
+**Other:** macOS · FreeDOS
 
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
-![CachyOS](https://img.shields.io/badge/CachyOS-00AEEF?style=flat&logo=linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat&logo=linuxmint&logoColor=white)
+## 🎭 The LARP side quest
 
-**Windows:**
+The engineering quest continues, but the campaign has a bonus objective: **become the most legendary LARPer on GitHub**. Bring on the lore, the characters, and the commits.
 
-![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=flat&logo=microsoft&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=flat&logo=microsoft&logoColor=white)
-![Windows 7](https://img.shields.io/badge/Windows%207-0078D6?style=flat&logo=microsoft&logoColor=white)
-![Windows XP](https://img.shields.io/badge/Windows%20XP-003399?style=flat&logo=microsoft&logoColor=white)
+## 📫 Contact
 
-**Mobile:**
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
-
-**Other:**
-
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
-![FreeDOS](https://img.shields.io/badge/FreeDOS-000000?style=flat&logo=freedos&logoColor=white)
-
-## What I'm Working On
-
-- Practice exercises and projects in **C**.
-- A first-semester project involving **ARM Assembly**.
-- Small console programs to reinforce core concepts.
-- Well-organized repositories with README files, examples, and learning notes.
-- Improving my workflow with **Git** and **GitHub**.
-
-## Next Goals
-
-- Get comfortable with pointers, dynamic memory, and modular programming in C.
-- Learn classic data structures.
-- Publish personal projects with clear documentation.
-- Start working with Linux, Makefiles, and development tools.
-- Build a strong base for future courses and more ambitious projects.
-
-## Learning Mindset
-
-```c
-while (learning) {
-    practice();
-    make_mistakes();
-    understand();
-    improve();
-}
-```
-
-## Contact
+If you're learning too or want to share programming ideas, projects, or resources, find me here:
 
 [![GitHub](https://img.shields.io/badge/GitHub-DavidFB--creator-181717?style=for-the-badge&logo=github)](https://github.com/DavidFB-creator)
-
-If you're also learning or want to share programming ideas, projects, or resources, you can find me here.
